@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="alpha_aud"
+        >
+        <item>@raw/auda</item>
+        <item>@raw/audb</item>
+        <item>@raw/audc</item>
+        <item>@raw/audd</item>
+        <item>@raw/aude</item>
+        <item>@raw/audf</item>
+        <item>@raw/audg</item>
+        <item>@raw/audh</item>
+        <item>@raw/audi</item>
+        <item>@raw/audj</item>
+        <item>@raw/audk</item>
+        <item>@raw/audl</item>
+        <item>@raw/audm</item>
+        <item>@raw/audn</item>
+        <item>@raw/audo</item>
+        <item>@raw/audp</item>
+        <item>@raw/audq</item>
+        <item>@raw/audr</item>
+        <item>@raw/auds</item>
+        <item>@raw/audt</item>
+        <item>@raw/audu</item>
+        <item>@raw/audv</item>
+        <item>@raw/audw</item>
+        <item>@raw/audx</item>
+        <item>@raw/audy</item>
+        <item>@raw/audz</item>
+    </array>
+
+</resources>
